@@ -43,4 +43,4 @@ GROUP BY d.department_name;
 
 ## Er Diagram
 
-![ER Diagram](ER_Diagram.png.jpg)
+![ER Diagram](ER_Diagram.png)
