@@ -40,6 +40,7 @@ JOIN departments d ON e.department_id = d.department_id
 GROUP BY d.department_name;
 
 ---
-## ER Diagram
+
+## Er Diagram
 
 ![ER Diagram](ER_Diagram.png.jpg)
